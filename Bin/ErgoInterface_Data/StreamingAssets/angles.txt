@@ -1,0 +1,72 @@
+Neck bending
+0
+Neck twist
+0
+Neck side bending
+0
+Trunk bending
+0
+Trunk twist
+0
+Trunk side bending
+0
+Upper right leg flexion
+0
+Upper right leg abduction
+0
+Upper right leg rotation
+0
+Upper left leg flexion
+0
+Upper left leg abduction
+0
+Upper left leg rotation
+0
+Lower left leg flexion
+0
+Lower right leg flexion
+0
+Left foot flexion
+0
+Left foot twist
+0
+Left foot bending
+0
+Right foot flexion
+0
+Right foot twist
+0
+Right foot bending
+0
+Upper right arm raise
+0
+Upper right arm flexion
+0
+Upper right arm abduction
+90
+Upper right arm rotation
+0
+Upper left arm raise
+0
+Upper left arm flexion
+0
+Upper left arm abduction
+90
+Upper left arm rotation
+0
+Lower left arm flexion
+0
+Lower right arm flexion
+0
+Left hand flexion
+0
+Left hand twist
+0
+Left hand bending
+0
+Right hand flexion
+0
+Right hand twist
+0
+Right hand bending
+0
